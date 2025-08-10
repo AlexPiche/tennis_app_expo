@@ -1,0 +1,6 @@
+{
+  "buildCommand": "NODE_OPTIONS='--openssl-legacy-provider' npx expo-cli@5.4.12 build:web",
+  "outputDirectory": "web-build",
+  "installCommand": "npm install",
+  "framework": null
+}
